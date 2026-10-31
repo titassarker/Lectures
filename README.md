@@ -29,4 +29,4 @@ Instructor-led batches: [TSoft IT](https://tsoftit.com) · [MikroTikTraining.bd]
 
 **Titas Sarker** — Assistant IT Manager · MikroTik Certified Trainer
 
-[LinkedIn](https://www.linkedin.com/in/titassarker) · [YouTube](https://www.youtube.com/user/titassarker) · [titassarker.com](https://www.titassarker.com)
+[LinkedIn](https://www.linkedin.com/in/titassarker) · [YouTube](https://www.youtube.com/user/titassarker)
