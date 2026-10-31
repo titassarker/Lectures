@@ -12,8 +12,20 @@ Maintained by **Titas Sarker**, MikroTik Certified Trainer (TR-0629).
 | Cisco CCNA | [`CCNA/`](CCNA) | 20 | OSI, TCP/IP, subnetting & VLSM, static/dynamic routing (EIGRP, OSPF, BGP), VLANs, ACL, NAT/PAT, IPv6, WAN, HSRP/VRRP/GLBP |
 | Certified Ethical Hacker | [`CEH/`](CEH) | 17 | Reconnaissance, scanning, gaining & maintaining access, covering tracks, sniffing, social engineering, session hijacking … |
 | Microsoft MCSA | [`MCSA/`](MCSA) | 16 | Windows Server installation, Active Directory, DNS, DHCP, users & groups, Group Policy … |
-| MikroTik | [`MikroTik/`](MikroTik) | 24 | RouterOS basics, Winbox, PC-based MikroTik, queues & bandwidth control, DHCP, user management … |
+| MikroTik | [`MikroTik/`](MikroTik) | 31 | RouterOS basics to engineer level: Winbox, queues, PPPoE, VLAN, OSPF, hotspot, load balancing, failover — plus 7 engineer certification notes (below) |
 | Red Hat RHCE | [`RHCE/`](RHCE) | 19 | Linux system administration and RHCE objectives |
+
+### MikroTik engineer certification notes
+
+| Certification | Topics |
+|---|---|
+| **MTCINE** — Inter-Networking Engineer | Autonomous systems, BGP (iBGP/eBGP), advanced routing |
+| **MTCTCE** — Traffic Control Engineer | Packet flow, firewall filter/NAT/mangle, queues & HTB |
+| **MTCUME** — User Management Engineer | PPP profiles & secrets, address lists, hotspot, user management |
+| **MTCWE** — Wireless Engineer | Antennas, wireless installation, NV2, wireless security |
+| **MTCEWE** — Enterprise Wireless Engineer | RF fundamentals, decibels, antenna theory, enterprise WLAN |
+| **MTCSE** — Security Engineer | Router hardening, attacks & prevention (DHCP, SYN, UDP floods) |
+| **MTCIPv6E** — IPv6 Engineer | IPv6 addressing, IPv4 vs IPv6, IPv6 configuration on RouterOS |
 
 ## How to use
 
